@@ -178,7 +178,7 @@ Customer cancellations are higher during peak hours compared to driver cancellat
 
 Driver cancellations due to personal/car issues affect overall ride completion rate.
 
-UPI is the most preferred payment method, followed by credit/debit cards.https://github.com/Hardi-n/Ola-Dashboard/blob/master/dashboard.png
+UPI is the most preferred payment method, followed by credit/debit cards.
 
 Prime vehicle types consistently achieve higher customer ratings.
 
